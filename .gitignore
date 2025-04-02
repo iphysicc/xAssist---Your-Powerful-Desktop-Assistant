@@ -1,0 +1,9 @@
+# İzlenmeyecek tüm dosyaları belirtin
+*
+*/
+*.*
+
+# Sadece README.md ve version.json dosyasını izin ver
+!README.md
+!version.json
+!.gitignore 
