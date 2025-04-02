@@ -5,7 +5,8 @@
   "updateUrl": "https://github.com/iphysicc/xAssist---Your-Powerful-Desktop-Assistant/releases",
   "windowsInstallerUrl": "https://github.com/iphysicc/xAssist---Your-Powerful-Desktop-Assistant/releases/download/v1.2.0/xassist_1.2.0_setup.exe",
   "releaseNotes": [
-    "Hatalar düzeltildi"
+    "Hatalar düzeltildi",
+    "Geçici olarak OpenRouter API kullanımı devre dışı bırakıldı"
   ],
   "isForcedUpdate": false
 } 
