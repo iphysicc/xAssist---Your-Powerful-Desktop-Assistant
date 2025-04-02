@@ -2,8 +2,8 @@
   "version": "1.1.0",
   "buildNumber": "2",
   "minRequiredVersion": "1.0.0",
-  "updateUrl": "https://github.com/yourusername/xassist/releases",
-  "windowsInstallerUrl": "https://github.com/yourusername/xassist/releases/download/v1.1.0/xassist_1.1.0_setup.exe",
+  "updateUrl": "https://github.com/iphysicc/xAssist---Your-Powerful-Desktop-Assistant/releases",
+  "windowsInstallerUrl": "https://github.com/iphysicc/xAssist---Your-Powerful-Desktop-Assistant/releases/download/v1.1.0/xassist_1.1.0_setup.exe",
   "releaseNotes": [
     "Web arama özelliği eklendi",
     "Türkçe dil desteği geliştirildi",
