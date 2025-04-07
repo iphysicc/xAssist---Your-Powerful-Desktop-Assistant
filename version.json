@@ -3,7 +3,7 @@
   "buildNumber": "4",
   "minRequiredVersion": "1.0.0",
   "updateUrl": "https://github.com/iphysicc/xAssist---Your-Powerful-Desktop-Assistant/releases",
-  "windowsInstallerUrl": "https://github.com/iphysicc/xAssist---Your-Powerful-Desktop-Assistant/releases/download/v1.2.0/xassist_1.2.0+4_setup.exe",
+  "windowsInstallerUrl": "https://github.com/iphysicc/xAssist---Your-Powerful-Desktop-Assistant/releases/download/v1.2.0%2B4/xassist_1.2.0+4_setup.exe",
   "releaseNotes": [
     "UI tamamen yenilendi."
   ],
